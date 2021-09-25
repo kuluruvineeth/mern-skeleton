@@ -2,9 +2,21 @@
 
 A skeleton application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB.
 
-![MERN Skeleton](https://mernbook.s3.amazonaws.com/git+/skeleton2.png "MERN Skeleton")
+## Home Page
+![MERN Skeleton](https://github.com/kuluruvineeth/mern-skeleton/blob/master/screenshots/home.png)
 
-### [Live Demo](http://skeleton2.mernbook.com/ "MERN Skeleton")
+## SignUp Page
+![signup](https://github.com/kuluruvineeth/mern-skeleton/blob/master/screenshots/signup.png)
+
+## SignIn Page
+![signin](https://github.com/kuluruvineeth/mern-skeleton/blob/master/screenshots/signin.png)
+
+## Users Page
+![users](https://github.com/kuluruvineeth/mern-skeleton/blob/master/screenshots/users.png)
+
+## Profile Page
+![profile](https://github.com/kuluruvineeth/mern-skeleton/blob/master/screenshots/profile.png)
+
 
 #### What you need to run this code
 1. Node (13.12.0)
